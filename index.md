@@ -6,8 +6,8 @@ Stay tuned as I will upload amazing projects in the future!!
 
 
 
-**The instructions below will be used to populate this site!**
---------------------------------------------------------------------------------
+## **The instructions below will be used to populate this site!**
+## --------------------------------------------------------------------------------
 You can use the [editor on GitHub](https://github.com/amac05/amac05.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
