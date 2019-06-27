@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to amac05's universe!
 
-title: Welcome to amac05's universe!
+## **This is very cool**
+
+Stay tuned as I will upload amazing projects in the future!!
+
+
+
+**The instructions below will be use to populate this site!**
 
 You can use the [editor on GitHub](https://github.com/amac05/amac05.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
