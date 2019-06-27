@@ -11,6 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+title: Welcome to the amac05’s homepage!
+description: Stay tuned for fun updates! It is going to be full of creative projects!
+
 # Header 1
 ## Header 2
 ### Header 3
